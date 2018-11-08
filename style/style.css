@@ -1,0 +1,203 @@
+.container{
+    margin: 0 auto;
+    width: 1140px;
+    height: 100%;
+}
+
+.cookies {
+    height: 72px;
+    background-color: #194277;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.cookies .log {
+    width: 550px;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.cookies p{
+    float: left;
+    color: #ffffff;
+    font: 400 14px/36px Lato;
+}
+
+.accept{
+    width: 112px;
+    height: 30px;
+    border-radius: 15px;
+}
+
+.welcome{
+    height: 872px;
+    background-image: linear-gradient(51deg, #3695ff 0%, #3564fc 100%);
+    padding-top: 35px;
+    text-align: center;
+}
+
+.welcome h1{
+    margin: 0 auto;
+    color: #ffffff;
+    font: 400 50px/60px "Lato - Black";
+    text-transform: uppercase;
+    letter-spacing: 1.25px;
+    width: 850px;
+    margin-bottom: 40px;
+}
+
+.welcome p{
+    width: 765px;
+    height: 60px;
+    margin: 0 auto 70px;
+    color: #ffffff;
+    font: 300 16px/35px Lato;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    overflow: hidden;
+}
+
+.elipsa {
+    width: 141px;
+    height: 141px;
+    margin-bottom: 40px;
+    margin-top: 60px;
+}
+
+nav{
+    float: right;
+}
+
+.about{
+    height: 400px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.about h2{
+    color: #3677fd;
+    font: 300 50px/1 Lato;
+    margin-bottom: 35px;
+}
+
+.about p{
+    height: 85px;
+    color: #5a5a5a;
+    font: 400 16px/35px Lato;
+}
+
+.expert{
+    height: 1145px;
+    background: #f1f8ff;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.expert h2{
+    color: #3677fd;
+    font-family: Lato;
+    font-size: 50px;
+    font-weight: 300;
+    line-height: 35.12px;
+    text-align: center;
+    margin-bottom: 150px;
+
+}
+
+.expert .design {
+    height: 340px;
+    width: 355px;
+    float: left;
+    text-align: center;
+    margin: 10px;
+}
+
+.expert .design img{
+    margin-bottom: 100px;
+}
+
+.expert .design h3{
+    color: #3677fd;
+    font: 700 24px/1 Lato;
+    text-transform: uppercase;
+    margin-bottom: 35px;
+}
+
+.expert .design p{
+    height: 100px;
+    color: #5a5a5a;
+    font: 400 16px/35px Lato;
+    overflow: hidden;
+}
+
+.works{
+    height: 800px;
+    text-align: center;
+    padding: 100px;
+}
+
+.works img{
+    float: left;
+}
+
+.works h2{
+    color: #3677fd;
+    font: 300 50px/35px Lato;
+    margin-bottom: 50px;
+}
+
+.clients{
+    height: 363px;
+    padding: 100px;
+    background: #f1f8ff;
+    text-align: center;
+}
+
+.clients h2{
+    color: #3677fd;
+    font: 300 50px/35px Lato;
+    margin-bottom: 70px;
+}
+
+.clients li{
+    list-style-type: none;
+    display: inline;
+    margin-right: 70px;
+    filter: grayscale(100%);
+}
+
+.clients li:hover{
+    transition: 1s;
+    filter: grayscale(0);
+}
+
+footer{
+    height: 247px;
+    background-image: linear-gradient(51deg, #3695ff 0%, #3564fc 100%);
+    text-align: center;
+    padding: 100px;
+}
+
+footer p{
+    width: 870px;
+    height: 47px;
+    color: #ffffff;
+    font: 300 50px/65px Lato;
+    float: left;
+}
+
+ span{
+    color: #ffffff;
+    font-family: "Lato - Bold";
+    font-weight: 700;
+}
+
+.hire{
+    width: 204px;
+    height: 55px;
+    border-radius: 28px;
+    color: #3695ff;
+    font: 700 16px/30px Lato;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+}
